@@ -1,9 +1,14 @@
+<div align="center">
+    <img src="./resources/img/divider.gif"
+        alt="divider">
+</div>
+
 ### Hi there 👋
 
 <!--- snake -->
 <div align="center">
-  <img  src="./resources/img/grid-snake.svg"
-       alt="snake" /></a>
+    <img  src="./resources/img/grid-snake.svg"
+        alt="snake" /></a>
 </div>
 
 <!--
