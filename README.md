@@ -8,6 +8,7 @@
 
 ## <picture><img src = "./resources/img/about_me.gif" width = 50px></picture> **About me**
 
+## <img src="./resources/img/giphy.webp" width ="25"><b> Skills</b>
 <!--
 **abazatte/abazatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
