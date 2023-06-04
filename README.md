@@ -11,9 +11,7 @@
         alt="snake" />
 </div>
 
-<div align="left">
-# <img  src="./resources/img/about_me.gif" alt="aboutme" /> About Me:
-</div>
+## <picture><img src = "./resources/img/about_me.gif" width = 50px></picture> **About me**
 
 <!--
 **abazatte/abazatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
