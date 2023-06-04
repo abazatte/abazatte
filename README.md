@@ -3,12 +3,16 @@
         alt="divider">
 </div>
 
-### Hi there 👋
+# Hi there 👋
 
 <!--- snake -->
 <div align="center">
     <img  src="./resources/img/grid-snake.svg"
-        alt="snake" /></a>
+        alt="snake" />
+</div>
+
+<div align="left">
+# <img  src="./resources/img/about_me.gif" alt="aboutme" /> About Me:
 </div>
 
 <!--
