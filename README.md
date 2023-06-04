@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<!--- snake -->
+<div align="center">
+  <img  src="./resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <!--
 **abazatte/abazatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
