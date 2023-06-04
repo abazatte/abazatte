@@ -1,9 +1,4 @@
-<div align="center">
-    <img src="./resources/img/divider.gif"
-        alt="divider">
-</div>
-
-# Hi there 👋
+# <div align="center">Hi there, here is abazatte!</div>
 
 <!--- snake -->
 <div align="center">
