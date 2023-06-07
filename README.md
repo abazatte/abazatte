@@ -8,12 +8,6 @@
 
 ## <picture><img src = "./resources/img/about_me.gif" width = 50px></picture> **About me**
 
-### **Contact me**
-<div align="center">
-    <a href="https://www.linkedin.com/in/abdurrahman-azattem%C3%BCr-2a468821b/" target="blank"><img align="center"
-        src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="azzar" height="30"/></a>
-</div>
 
 
 ## <img src="./resources/img/giphy.webp" width ="25"><b> Skills</b>
