@@ -8,7 +8,7 @@
 
 ## <picture><img src = "./resources/img/about_me.gif" width = 50px></picture> **About me**
 
-
+ 
 
 ## <img src="./resources/img/giphy.webp" width ="25"><b> Skills</b>
 <!--
